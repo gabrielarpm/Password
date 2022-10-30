@@ -1,2 +1,2 @@
-This C++ programming project aims to develop a password checker program that checks how strong the entered password is.
+Created a program using C++ to check the strength of a password based on complex criteria.
 
